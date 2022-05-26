@@ -1,0 +1,159 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+
+/* 头部开始 */
+a {
+ text-decoration: none;
+ color: #000;
+}
+#onea {
+ width: 1600px;
+ height: 117px;
+ background-color: rgba(0, 0, 0, 0.8);
+ color: #fff;
+ position: relative;
+ box-sizing: border-box;
+}
+
+#onea img {
+ margin-left: 205px;
+ margin-top: 23px;
+}
+
+.nav {
+ position: absolute;
+ left: 715px;
+ top: 42px;
+ display: inline-block;
+}
+
+.nav li {
+ width: 175px;
+ float: left;
+ list-style: none;
+ font-size: 20px;
+ color: #fff;
+ position: relative;
+
+}
+.nav li a {
+ color: #fff;
+}
+
+#onea .xiala {
+ box-sizing: border-box;
+ background-color: rgba(0, 0, 0, 0.5);
+ width: 155px;
+ height: 205px;
+ position: absolute;
+ top: 75px;
+ left: -30px;
+ display: none;
+ z-index: 2;
+}
+
+.xiala li {
+ width: 155px;
+ border-bottom: 1px solid #616161;
+ line-height: 40px;
+ text-align: center;
+
+}
+
+.ren {
+ width: 24px;
+ height: 24px;
+ float: right;
+ margin-right: 215px;
+ position: absolute;
+ top: 23px;
+ right: 0;
+}
+/* 头部结束 */
+/* 底部开始 */
+.last {
+	width: 1600px;
+	height: 258px;
+	box-sizing: border-box;
+}
+
+.lasta {
+	width: 1600px;
+	height: 221px;
+	box-sizing: border-box;
+	background-color: #000;
+	position: relative;
+}
+
+.dawenzi ul {
+	float: left;
+	margin-top: 25px;
+}
+
+.dawenzi ul li a {
+	text-decoration: none;
+	color: #fff;
+	font-size: 15px;
+}
+
+.dawenzi ul li {
+	padding-left: 180px;
+	line-height: 36px;
+}
+
+.xian {
+	width: 2px;
+	height: 160px;
+	background-color: #666666;
+	position: absolute;
+	left: 785px;
+	top: 40px;
+}
+
+.right ul {
+	float: right;
+	margin-top: 25px;
+	margin-right: 472px;
+}
+
+.right ul a {
+	text-decoration: none;
+}
+
+.right .jinan a {
+	color: #fff;
+}
+
+.right ul li {
+	line-height: 28px;
+}
+
+.hui a {
+	color: #6B6B6B;
+}
+
+.dabai a {
+	color: #fff;
+	font-weight: bold;
+}
+
+.erweima {
+	position: absolute;
+	top: 54px;
+	right: 220px;
+}
+
+.lastb {
+	width: 1600px;
+	height: 37px;
+	box-sizing: border-box;
+	background-color: #434343;
+	text-align: center;
+	line-height: 37px;
+	color: #BEBEBE;
+}
+
+/* 底部结束 */
